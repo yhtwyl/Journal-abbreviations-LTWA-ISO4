@@ -1,6 +1,5 @@
 % function abbreviationISO4(string,ltwa20210702)
 % disp(size(ltwa20210702));
-ltwa20210702 = importdata("C:\Users\manoj\Documents\LTWA_ISO4_Abbreviations.xlsx");
 string = "Journal of Liquid Chromatography and Related Technologies";
 splitted = split(string);
 % length(splitted(1));
